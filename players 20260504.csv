@@ -1,0 +1,306 @@
+player_id,stats_perform_id,first_name,last_name,display_name,teamshort,pos,jersey_no,nationality_primary,height_cm,weight_kg,birth_date,birth_place,height_ft,weight_lb
+344f4d25-a58d-41e1-b203-cedd602418f8,612537.0,Aleksandar,Milanovic,Aleksandar Milanovic,vik,Offensive Tackle,61,AUSTRIAN,200.0,126.0,1991-11-11,,"6'6""",278
+a46db98c-3936-4b8f-b814-69ebe44450c4,1584991.0,Andy,Vera Puentenueva,Andy Vera,bth,Cornerback,25,Spanish,170.0,81.0,1998-10-27,"Badajoz, Spain","5'6""",179
+409d3c94-3a90-4624-a0ad-6f41c26fecb4,1586198.0,Christopher,Wartenberg,Christopher Wartenberg,bth,Offensive Tackle,69,German,179.0,139.0,1995-03-12,Berlin,"5'10""",306
+459c2089-4e47-4fdb-958b-e5c844923e92,1583579.0,Daniel,Piątkowski,Daniel Piątkowski,wpa,Strong Safety,19,Polish,187.0,95.0,1998-10-02,"Wrocław, Poland","6'1""",209
+df7d782a-bbc9-434e-96e8-4dfcee1c5475,1584106.0,Exavier,Edwards,Exavier Edwards,par,Cornerback,7,American,177.0,88.0,1991-11-23,United States,"5'9""",194
+0b850999-c144-4bfa-946f-361235002245,1584964.0,Elvys Ramon,Nuñez Vargas,Elvys Nuñez,par,Center,64,SPANISH,188.0,142.0,1998-05-11,,"6'2""",313
+1ed9a68e-49d6-4e69-88cb-5bc17bfccb50,1583818.0,Bais,Kouanda,Bais Kouanda,bth,Wide Receiver,3,German,178.0,80.0,2002-04-18,Hamburg,"5'10""",176
+a0e59a25-39e3-4d50-87f7-1d8ba698b989,1585936.0,Grzegorz,Lary,Grzegorz Lary,wpa,Cornerback,27,Polish,183.0,77.0,1998-09-15,"Wrocław, Poland","6'0""",170
+d34a364f-39f8-435e-8e43-bf76293b1eca,1583589.0,Adam,Lary,Adam Lary,wpa,Cornerback,25,Polish,184.0,84.0,1991-09-14,"Wrocław, Poland","6'0""",185
+f45f0a51-8b00-4190-a493-b19a99b28080,1583708.0,Albert,Wiesigstrauch,Albert Wiesigstrauch,vik,Running Back,22,GERMAN,172.0,82.0,2002-01-22,,"5'7""",181
+cc89ff1f-2e1e-4886-9d91-b67c6206aa9e,1583721.0,Ben,Wenzler,Ben Wenzler,wpa,Cornerback,33,German,183.0,83.0,2000-08-02,"Stuttgart, Germany","6'0""",183
+529fe919-dc37-4180-bf12-42d06fb3e6b5,1583588.0,Dawid,Brzozowski,Dawid Brzozowski,wpa,Running Back,22,Polish,179.0,95.0,2001-01-29,"Bracciano, Italy","5'10""",209
+febd6b62-f840-4498-973a-3c31dac96078,1583829.0,Ferras,El-Hendi,Ferras El-Hendi,bth,Quarterback,19,German,193.0,95.0,1996-05-24,"Dresden, Germany","6'3""",209
+6a089869-c8aa-4044-9693-9d4eefcf4335,1583854.0,Florian,Sudi,Florian Sudi,vik,Defensive Tackle,95,Austrian,197.0,140.0,1997-07-18,Feldbach,"6'5""",309
+0c8ef606-3a0e-4672-ab91-bfe1bcedc7f5,1583577.0,Adrian,Gródecki,Adrian Gródecki,wpa,Wide Receiver,18,Polish,185.0,81.0,1998-01-06,"Wrocław, Poland","6'0""",179
+1c9a16cc-a7ac-4bef-9cea-a0c88071bac4,1583881.0,Aaron,Große Kleimann,Aaron Große,rhf,Defensive End,99,German,204.0,127.0,2001-10-19,"Lippstadt, Germany","6'8""",280
+ab57b345-97a7-4942-95b4-591a18b6beb7,1584097.0,Chad,Walrond,Chad Walrond,alp,,,BRITISH,178.0,88.0,1999-05-25,,"5'10""",194
+99d7c464-09bd-4b52-9f64-8357023e4e60,1583847.0,David,Rauter,David Rauter,vik,Offensive Guard,77,AUSTRIAN,195.0,140.0,1994-07-19,,"6'4""",309
+0487a580-883b-11ed-881a-d5a7dfbc10f9,1583485.0,Randy,Abandzounou,Randy Abandzounou,par,Defensive End,17,FRENCH,195.0,106.0,1999-08-13,Brazzaville,"6'4""",234
+afe826c4-b4f3-427d-9894-f164e99217de,1584921.0,Alejandro,Fernandez Nieto,Alejandro Fernandez,vik,Defensive End,15,SPANISH,188.0,105.0,2001-11-30,,"6'2""",231
+0db39b18-e717-4928-8051-e48b61b7804a,1583808.0,Benjamin,Straight,Benjamin Straight,vik,Strong Safety,23,AUSTRIAN,183.0,92.0,1999-04-23,,"6'0""",203
+5c3a700a-2890-4ef3-a4c6-ff6ad2356273,,Deon,Mutsvanemoto,Deon Mutsvanemoto,bth,Offensive Guard,55,English,190.0,129.0,1996-07-15,Zimbabwe,"6'2""",284
+f84a43b1-0655-4b6f-a7c0-811576482ecb,1583748.0,Dennis,Tasic,Dennis Tasic,vik,Kicker,2,AUSTRIAN,186.0,110.0,1992-09-09,,"6'1""",243
+4a4aefeb-30be-4d8e-832f-c9791c8d1496,1586292.0,Giacomo,De Pauli,Giacomo De,rhf,Running Back,15,German,188.0,103.0,1998-10-03,"Filderstadt, Germany","6'2""",227
+c601466a-35e2-4b63-a050-8ad15d4ad3b3,1584967.0,Celestin,Ngimbi Mabiala,Celestin Ngimbi,par,Center,60,Spanish,186.0,140.0,2002-10-30,"Spain, Madrid","6'1""",309
+9c602c46-1f30-42b2-b80b-01ebcb8c5952,1583836.0,Clemens,Walz,Clemens Walz,vik,Offensive Guard,51,AUSTRIAN,183.0,120.0,1999-08-20,,"6'0""",265
+99003275-155e-4d8b-bb12-22afcb932710,1583850.0,Florian,Bierbaumer,Florian Bierbaumer,vik,Tight End,89,AUSTRIAN,198.0,116.0,1998-10-05,,"6'5""",256
+1814d9cf-7b98-49e4-a758-8a8942bb0938,1583526.0,Hubert,Ogrodowczyk,Hubert Ogrodowczyk,wpa,Linebacker,2,Polish,182.0,107.0,1993-07-28,"Poznań, Poland","5'11""",236
+25baddd3-10e0-496a-abff-5673d8e7909f,1583822.0,Jakeb Jon Wayne,Sullivan,Jakeb Sullivan,bth,Quarterback,7,American,185.0,85.0,1994-07-01,Rapid City South Dakota,"6'0""",187
+c52ab6af-cddf-4f2e-851e-5bd6dc697bd7,1583824.0,Moriz,Elmauthaler,Moriz Elmauthaler,vik,Linebacker,42,AUSTRIAN,179.0,97.0,1999-11-11,,"5'10""",214
+cb1da7fb-ccdf-4eb0-b944-15d4f604224c,1583806.0,Leonhard,Gerner,Leonhard Gerner,vik,Cornerback,21,AUSTRIAN,183.0,85.0,2000-09-25,,"6'0""",187
+f6dae90e-cf78-4de8-bbc3-2e7cefcb1939,1583629.0,Michał,Goszczyński,Michał Goszczyński,wpa,Wide Receiver,84,POLISH,197.0,92.0,2000-11-19,,"6'5""",203
+769bf111-463c-4fb9-977e-edb7c3ee8455,1386402.0,Karlis,Brauns,Karlis Brauns,wpa,Defensive Line,3,Latvian,196.0,117.0,1994-01-12,"Riga, Latvia","6'5""",258
+5e3b8604-f22b-4a32-b829-b188f04a4e0b,1583700.0,Kai,Hunter,Kai Hunter,bth,Running Back,2,German,176.0,85.0,1998-03-19,Saarbrücken,"5'9""",187
+35ecde1e-7879-424c-8eee-455d576e97bd,1583363.0,Luis,Fiedler,Luis Fiedler,rhf,Linebacker,55,German,184.0,92.0,2002-09-21,Castrop-Rauxel,"6'0""",203
+ef9c06d1-662d-4af8-9b67-677e8d8c18e2,1319568.0,Leander Valentin,Wiegand,Leander Wiegand,rhf,Offensive Guard,64,German,196.0,140.0,1999-08-24,Henstedt-Ulzburg,"6'5""",309
+eaa8929d-2b8b-451d-b5d6-8b4cbfc56334,1583636.0,Łukasz,Gembara,Łukasz Gembara,wpa,Defensive Tackle,97,POLISH,185.0,130.0,1998-01-19,,"6'0""",287
+c9daf96a-fc48-4bf7-9f3e-149bdd5c6104,1585988.0,Matthias,Banjaqui,Matthias Banjaqui,rhf,,,GERMAN,188.0,103.0,1995-09-02,,"6'2""",227
+63bf940c-296b-4136-bb6b-b6610041e837,1583346.0,Maximilian,Eisenhut,Maximilian Eisenhut,rhf,Punter,14,German,186.0,92.0,1995-04-29,"Bonn, Germany","6'1""",203
+74a52106-0301-4c92-991e-d40959640416,1583344.0,Harlan,Kwofie,Harlan Kwofie,rhf,Wide Receiver,10,German,190.0,96.0,1999-06-03,Venray,"6'2""",212
+028655f3-92c8-4aff-a869-90f61ce59929,1583830.0,Joshua,Poznanski,Joshua Poznanski,bth,Strong Safety,15,German,190.0,98.0,1995-06-06,"Frankfurt am Main, Germany","6'2""",216
+dd68ffe0-4580-497a-b40e-dca6eacf6626,1583756.0,Johannes,Schütz,Johannes Schütz,vik,Running Back,4,AUSTRIAN,181.0,88.0,2000-10-03,,"5'11""",194
+29f87bff-4f71-4ea2-8bad-615e3697e18f,1583338.0,Lennart,Rebensburg Weitz,Lennart Rebensburg Weitz,rhf,Inside Linebacker,3,German,184.0,97.0,2000-06-08,"Köln, Germany","6'0""",214
+76597b1c-ae3d-46b8-88cd-18f61cf7334c,,Marloshawn,Franklin Jr.,Marloshawn Franklin,vik,Free Safety,1,,183.0,92.0,1996-10-23,,"6'0""",203
+8e6028c5-2b5a-423b-8194-630ec0d292cb,1583339.0,Jannik,Seibel,Jannik Seibel,rhf,Cornerback,4,German,190.0,93.0,1999-05-28,"Düsseldorf, Germany","6'2""",205
+5d860b9e-dc68-4747-bddd-a2c03854b8d5,1583598.0,Krzystof,Wis,Krzystof Wis,wpa,Middle Linebacker,35,Polish,192.0,100.0,1988-01-16,"Wrocław, Poland","6'3""",220
+358febe8-9ea0-4653-ba06-a23bda54bbce,1584957.0,Gabriel,Rodriguez,Gabriel Rodriguez,alp,,,SPANISH,199.0,145.0,2000-10-02,,"6'6""",320
+880d8da0-c601-4362-89b6-d900b26de03d,1583373.0,Jason,Chikere,Jason Chikere,rhf,Defensive Tackle,97,German,190.0,133.0,1998-02-11,"Oberhausen, Germany","6'2""",293
+81bb9297-6d51-4fe2-8c5d-f5ce6fbf349e,1583372.0,Justus,Sleiman-Fierek,Justus Sleiman,rhf,Defensive Tackle,94,German,188.0,120.0,2002-01-03,"Düsseldorf, Germany","6'2""",265
+abc58452-4986-4903-a17d-db18c55805f5,1583592.0,Kamil,Kotlarz,Kamil Kotlarz,wpa,Running Back,29,Polish,175.0,85.0,2001-06-13,"Oleśnica, Poland","5'8""",187
+b6f0b49b-8d2b-4825-aead-d67c6be266b3,1583843.0,Lukas,Holub,Lukas Holub,vik,Offensive Tackle,71,AUSTRIAN,196.0,130.0,2002-03-07,,"6'5""",287
+0e050232-477b-4b9d-80ee-0acf8e329a6b,1583630.0,Mateusz,Wojakiewicz,Mateusz Wojakiewicz,wpa,Tight End,87,POLISH,193.0,110.0,2001-01-15,"Wrocław, Poland","6'3""",243
+ae4aff8a-0a2e-4b18-9cb8-b7e57864baf8,1583835.0,Niklas,Schumm,Niklas Schumm,bth,Wide Receiver,16,German,187.0,75.0,1999-11-12,"Fürth, Germany","6'1""",165
+14b107bf-4e2f-4a4f-ab9d-f1a3462a6fdd,1583341.0,Till,Janssen,Till Janssen,rhf,Cornerback,7,German,190.0,92.0,1994-04-18,"Düsseldorf, Germany","6'2""",203
+8737e811-5f91-4612-896b-69d36f0170a4,1583787.0,Philipp,Haun,Philipp Haun,vik,Wide Receiver,10,AUSTRIAN,180.0,84.0,1994-09-15,,"5'10""",185
+b63823b8-cee6-4f46-a100-a3ab91b19618,1583359.0,Sebastian,Van Santen,Sebastian Van,rhf,Kicker,33,German,198.0,105.0,1996-03-12,"Düsseldorf, Germany","6'5""",231
+bae8d1e2-8923-4567-bcd2-d8c2c156d8df,1583600.0,Tomasz,Kiszka,Tomasz Kiszka,wpa,Inside Linebacker,56,POLISH,180.0,98.0,2001-06-14,,"5'10""",216
+e0b09958-2800-4e4e-8d85-5a35f45acb39,1583535.0,Maciej,Krupa,Maciej Krupa,wpa,Wide Receiver,10,Polish,180.0,80.0,2003-06-29,"Trzebnica, Poland","5'10""",176
+6b4be01f-2d01-4ddb-8914-34be7b00c10a,1583855.0,Marvin,Wappl,Marvin Wappl,vik,Defensive End,96,AUSTRIAN,186.0,100.0,1994-03-15,,"6'1""",220
+ecf4dee9-3ce6-4d4e-addd-4593ccfa5045,1583811.0,Nikolaus,Huszar,Nikolaus Huszar,vik,Cornerback,27,AUSTRIAN,183.0,89.0,2001-04-03,,"6'0""",196
+7bcce1a0-b4b0-4beb-a12b-76d45677f6e3,1583356.0,Tyrone Jordan,Alexander,Tyrone Alexander,rhf,Running Back,28,German,173.0,80.0,1997-10-14,"Willich, Germany","5'8""",176
+b788edbb-f228-4c18-b369-5cb2fb2a92c7,1584262.0,Michael,Kimpiabi,Michael Kimpiabi,alp,,,SWISS,195.0,137.0,1998-03-27,,"6'4""",302
+b19391bf-9dea-4459-adae-30f468b83627,1583604.0,Rafał,Rogaczewski,Rafał Rogaczewski,wpa,Center,55,Polish,178.0,120.0,1991-07-31,"Szczecin, Poland","5'10""",265
+adcbeecb-6559-4b35-bc13-4885a90b2fc3,1583817.0,Sebastian,Ernst,Sebastian Ernst,vik,Linebacker,33,AUSTRIAN,183.0,92.0,1998-08-05,,"6'0""",203
+6b50f507-5965-4676-a17d-d351c860f775,1476209.0,Pablo,Araya Matilla,Pablo Araya,vik,Safety,31,SPANISH,178.0,88.0,2000-11-24,,"5'10""",194
+91b54724-c209-4cc5-b061-c529b3e4146a,,Remy,Feltes,Remy Feltes,rhf,Defensive Tackle,90,German,195.0,134.0,1996-09-02,"Bochum, Germany","6'4""",295
+0b6f53de-f781-4f80-b2f6-88198abe50bc,1583594.0,Szymon,Romanowski,Szymon Romanowski,wpa,Free Safety,4,POLISH,180.0,84.0,2001-11-08,"Wrocław, Poland","5'10""",185
+6b483cf1-d4f7-4aa2-a259-f92a71eec63c,1584786.0,Martin,Pinter,Martin Pinter,rhf,Defensive End,98,French,190.0,110.0,1997-05-10,Saint-Germain-En-Laye,"6'2""",243
+ffe79fcc-e8c4-4ed5-936e-ea7d6e59290d,1583362.0,Marvin,Pludra,Marvin Pludra,rhf,Offensive Guard,54,German,198.0,138.0,2000-12-07,"Karlsruhe, Germany","6'5""",304
+be10b98b-95a2-44bb-8e19-fd7d20f12c13,1583366.0,Nick,Wiens,Nick Wiens,vik,Offensive Guard,68,GERMAN,187.0,126.0,1997-04-17,,"6'1""",278
+4f663bc2-8a19-4f03-8d7c-756797ca33b3,1583804.0,Oskar,Herz,Oskar Herz,vik,Kicker,19,AUSTRIAN,183.0,72.0,1993-07-23,,"6'0""",159
+aedffcb8-5d13-4b9b-8c6d-5003225ac6e9,1584791.0,Simon,Homadi,Simon Homadi,bth,Running Back,6,German,185.0,90.0,2001-11-03,Ledig,"6'0""",198
+a8f4fa47-dd3e-437b-aa02-9922c3490a6f,1583361.0,Marius,Kensy,Marius Kensy,rhf,Middle Linebacker,44,German,185.0,112.0,1998-06-22,Gelsenkirchen,"6'0""",247
+833198ae-20d3-4646-bb29-b890fd3e2210,1583367.0,Sven,Breidenbach,Sven Breidenbach,rhf,Offensive Tackle,77,German,197.0,135.0,1989-09-18,"Dormagen, Germany","6'5""",298
+0024c414-6f1b-4555-af02-c7062c23a419,933607.0,Thomas,Schaffer,Thomas Schaffer,vik,Defensive Tackle,91,AUSTRIAN,201.0,140.0,1996-11-29,,"6'7""",309
+fcfc78e3-d160-45a6-8287-232d15f7032f,1583828.0,Vito,Millauer,Vito Millauer,vik,Defensive End,46,AUSTRIAN,192.0,112.0,2001-01-12,,"6'3""",247
+31eebac1-aeda-486b-b563-a4a796d68f53,1583801.0,Yannick,Mayr,Yannick Mayr,vik,Wide Receiver,14,AUSTRIAN,183.0,88.0,1996-03-19,,"6'0""",194
+b09d3fe1-f68e-42a3-a4f2-d5347ace2509,,Zoltan,Golita,Zoltan Golita,vik,Cornerback,26,GERMAN,0.0,0.0,,,"0'0""",0
+d6eb78ec-9d04-4a3b-8bc1-d5c180f8bc87,1583574.0,Wiktor,Zięba,Wiktor Zięba,wpa,Wide Receiver,16,Polish,185.0,95.0,1994-07-16,Wrocław,"6'0""",209
+95f1eb30-9901-11ed-a734-bfab7d3902ba,1584953.0,Juan,Flores-Calderon,Juan Flores-Calderon,wpa,Wide Receiver,81,Spanish,184.0,81.0,2004-01-31,"Madrit, Spain","6'0""",179
+053bb4a0-9991-11ed-bf80-6f33335c6375,1583809.0,Karri,Pajarinen,Karri Pajarinen,vik,Running Back,24,FINNISH,178.0,94.0,1998-10-05,,"5'10""",207
+00c99f9c-9d65-4d3d-a198-04b8661bd446,1583826.0,Leon,Huber,Leon Huber,vik,Linebacker,44,AUSTRIAN,181.0,100.0,2001-06-17,,"5'11""",220
+c7d6fb90-b0f3-11ed-b531-1da4d38c5a63,1583698.0,Tomiwa,Oyewo,Tomiwa Oyewo,bth,Running Back,8,Irish,180.0,95.0,1999-02-06,"Dublin, Ireland","5'10""",209
+470b1410-b2b0-11ed-a062-590c65ef5c51,1585182.0,Jan,Leuker,Jan Leuker,rhf,Quarterback,16,German,184.0,90.0,2001-08-10,"Viersen, Germany","6'0""",198
+413e2590-b2b5-11ed-976c-3b564236fcc7,1584955.0,Yasir,Raji,Yasir Raji,rhf,Offensive Tackle,78,German,188.0,115.0,1997-07-10,Ilorin,"6'2""",254
+1c09aee0-b740-11ed-80a1-618cd8b571e7,1583603.0,Stanisław,Idziak,Stanisław Idziak,wpa,Defensive End,54,Polish,185.0,110.0,2004-07-30,"Poznań, Poland","6'0""",243
+83f2c9b0-b740-11ed-80a1-618cd8b571e7,1593908.0,Dominik,Niedziela,Dominik Niedziela,wpa,Tight End,83,Polish,198.0,124.0,1996-03-06,"Mikołów, Poland","6'5""",273
+9d506690-b742-11ed-80a1-618cd8b571e7,1583635.0,Oskar,Romaniuk,Oskar Romaniuk,wpa,Defensive End,91,Polish,193.0,125.0,1991-09-17,"Kraków, Poland","6'3""",276
+d38d4e20-b824-11ed-a730-ebc09f1a623b,,Gabriel,Cunningham,Gabriel Cunningham,alp,,,AMERICAN,190.0,90.0,1995-08-09,,"6'2""",198
+b59d7650-c293-11ed-bd29-7f6e047a7c19,1583371.0,Leon,Höltker,Leon Höltker,rhf,Wide Receiver,89,German,185.0,82.0,1997-12-01,"Dülmen, Germany","6'0""",181
+25e5bf10-c296-11ed-8e7f-a127d56faf61,1447081.0,Lino,Schröter,Lino Schröter,rhf,Outside Linebacker,26,German,185.0,108.0,1999-08-25,"Troisdorf, Germany","6'0""",238
+b5d8e550-c7fc-11ed-9bfe-4f3c505bf416,1583595.0,Kacper,Jazienicki,Kacper Jazienicki,wpa,Cornerback,32,Polish,180.0,81.0,2002-06-23,"Oława, Poland","5'10""",179
+defeb900-c8d8-11ed-b816-cd95fcf63fc4,1583761.0,Elmeri,Laalo,Elmeri Laalo,vik,Strong Safety,6,FINNISH,192.0,94.0,2001-07-18,,"6'3""",207
+8ead14b0-d2d8-11ed-8af2-7729dacff20e,1583625.0,Jakub,Gajewski,Jakub Gajewski,wpa,Offensive Guard,72,Polish,187.0,140.0,2001-12-02,"Płock, Poland","6'1""",309
+f0f63240-d37e-11ed-bb53-35b53c811507,,Rico,Geyer,Rico Geyer,bth,Cornerback,18,German,,82.5,2000-09-15,Mainz,,182
+fa7d9c70-d394-11ed-8b09-696e05e6b2d7,1583880.0,Fabian,Tchuda,Fabian Tchuda,bth,Defensive Tackle,20,German,181.0,124.0,2001-09-19,Hamburg,"5'11""",273
+8f634cd0-d8a0-11ed-b5d9-e59dc85e57e9,1584295.0,Gregorio,Calonego,Gregorio Calonego,alp,,,ITALIAN,183.0,86.0,2001-04-29,,"6'0""",190
+ccfe3d80-d8a9-11ed-b5d9-e59dc85e57e9,1584270.0,Timothy,Schürmann,Timothy Schürmann,alp,,,SWISS,188.0,104.0,2001-05-15,,"6'2""",229
+002103d0-da3c-11ed-a8cf-bf90b728a50c,1584260.0,Hendrik,Rutishauser,Hendrik Rutishauser,alp,,,SWISS,184.0,95.0,2002-05-11,,"6'0""",209
+b62cd950-dae2-11ed-8c0e-354e6766429c,1585254.0,Jan Patrik,Schorn,Jan Schorn,bth,Defensive Tackle,98,German,188.0,135.0,2001-07-23,Köln,"6'2""",298
+314b1e40-dc59-11ed-b858-61e55cda49a7,1584774.0,Kevin,Kreider,Kevin Kreider,rhf,Center,53,German,194.0,128.0,2002-03-07,"Mechernich, Germany","6'4""",282
+dc3479a0-dc59-11ed-b858-61e55cda49a7,1585905.0,Tom,Kleinmann,Tom Kleinmann,rhf,Free Safety,29,German,191.0,94.0,2002-05-13,Köln,"6'3""",207
+3f7a55b0-dc5b-11ed-b858-61e55cda49a7,,Thomas Frederic S,Jacob,Thomas Jacob,rhf,Cornerback,31,Belgian,188.0,85.0,1998-10-15,"Verviers, Belgium","6'2""",187
+85979840-dc5c-11ed-b858-61e55cda49a7,1586665.0,Felix,Födinger,Felix Födinger,rhf,Outside Linebacker,49,German,184.0,99.0,2001-04-09,"Köln, Germany","6'0""",218
+5b368270-de12-11ed-9bc2-4b67b6d50160,1583365.0,Kaan,Timpel,Kaan Timpel,rhf,Offensive Guard,62,German,194.0,130.0,2001-06-27,Hanau,"6'4""",287
+0ab02010-de2e-11ed-a48f-e36421cf2937,1584960.0,David,Culebras Sanfrutos,David Culebras,vik,Offensive Line,56,SPANISH,188.0,120.0,2002-06-27,,"6'2""",265
+fc37d4e0-de2f-11ed-a48f-e36421cf2937,1584933.0,Eduardo,Perez Perez,Eduardo Perez,wpa,Wide Receiver,17,Spanish,174.0,77.0,2002-07-03,"Valencia, Spain","5'8""",170
+1c967c30-de69-11ed-8beb-a7d30736740a,1584093.0,Diego,Paz González,Diego Paz,rhf,Defensive End,92,Spanish,191.0,101.0,2003-04-01,Galicia,"6'3""",223
+a4c8c700-e1c2-11ed-bf60-7fc632668f80,1583360.0,Jeton,Novoberdalija,Jeton Novoberdalija,rhf,Fullback,42,,180.0,122.0,1997-04-28,"Langenfeld, Germany","5'10""",269
+b2541fb0-e1f8-11ed-aca2-e5f2d5c74a02,1251336.0,Devan,Burrell,Devan Burrell,alp,Cornerback,,AMERICAN,173.0,83.0,1995-05-21,,"5'8""",183
+52287770-e361-11ed-9547-07f611b1b9af,1590793.0,Zaire,Ugapo,Zaire Ugapo,par,Outside Linebacker,11,New Zealander,188.0,115.0,1997-08-11,New Zealand,"6'2""",254
+840730b0-e361-11ed-a14c-bfe78f535611,1583710.0,Luca,Siebert,Luca Siebert,vik,Linebacker,5,GERMAN,189.0,94.0,2000-08-28,,"6'2""",207
+adcfe340-e3bd-11ed-af24-b5c4cfc34dcd,,Felix,Proulx,Felix Proulx,bth,Cornerback,22,Italian,,,1999-12-12,Lecco,,
+148fc4e0-e401-11ed-93a9-c7a76bac9918,,Djilan,Eustache,Djilan Eustache,par,Outside Linebacker,40,FRENCH,,,1999-04-26,,,
+c81a91e0-e404-11ed-90b2-c7904dcbb173,1583476.0,Kenny,Floret,Kenny Floret,par,Strong Safety,9,FRENCH,173.0,82.0,1998-05-18,,"5'8""",181
+5739d580-e409-11ed-852e-057153526ee0,1583501.0,Davidson,Larochel,Davidson Larochel,par,Outside Linebacker,44,FRENCH,180.0,95.0,1996-09-06,,"5'10""",209
+086f2940-e49b-11ed-874c-f15ceecebf1a,,Ibel,Ahidazan,Ibel Ahidazan,par,,,FRENCH,,,1996-08-19,,,
+465a6e40-eac2-11ed-bdd7-a387fbe82775,1583849.0,Emil,Eckerstorfer,Emil Eckerstorfer,vik,Wide Receiver,84,AUSTRIAN,187.0,90.0,1999-12-19,,"6'1""",198
+98283990-f4be-11ed-930d-45c26933d774,1583472.0,Kacper,Jaszewski,Kacper Jaszewski,wpa,Wide Receiver,1,Polish,180.0,84.0,2002-01-13,"Wyszków, Poland","5'10""",185
+319d65b0-fec3-11ed-8c3e-01ae5c554907,1583590.0,Tomasz,Osmański,Tomasz Osmański,wpa,Cornerback,12,Polish,185.0,83.0,1998-09-01,"Bydgoszcz, Poland","6'0""",183
+6b88b400-04ef-11ee-beec-1b1562e54fe2,1591469.0,Felix,Ntwa,Felix Ntwa,bth,Defensive Tackle,99,Austrian,191.0,125.0,1989-04-10,"Vienna, Austria","6'3""",276
+f8e63d50-097b-11ee-a785-f347d5a7a46d,1583518.0,Valentin,Gnahoua,Valentin Gnahoua,par,Defensive End,77,FRENCH,188.0,110.0,1994-09-29,,"6'2""",243
+879a65a0-0ebb-11ee-9585-2724fc48ecf6,1583531.0,Mateusz,Hernacki,Mateusz Hernacki,wpa,Punter,26,POLISH,186.0,100.0,2004-01-30,,"6'1""",220
+2dbfac00-0f3a-11ee-af39-2d5c6ffbc113,1585900.0,Tomas,Middleton,Tomas Middleton,par,,,PANAMAIAN,196.0,157.0,1996-10-04,,"6'5""",346
+d9fda670-11a1-11ee-93a7-6fcbcbfe7e95,1584705.0,Szabolcs,Szöllösi,Szabolcs Szöllösi,fir,Free Safety,,Hungarian,182.0,82.0,2004-11-04,,"5'11""",181
+c04011e0-13a5-11ee-98ab-75d31cddd9d6,1583862.0,Nils,Schauerte,Nils Schauerte,bth,Kicker,11,German,190.0,92.0,2002-09-21,Meschede,"6'2""",203
+80b9c950-1407-11ee-8bb7-b92028bdf789,,Jakub,Ciurkot,Jakub Ciurkot,wpa,Kicker,15,Polish,191.0,85.0,2001-09-17,"Dębica, Poland","6'3""",187
+08908d00-19da-11ee-a5e8-e1796696fa7b,884265.0,Darrell,Stewart Jr.,Darrell Stewart,vik,Wide Receiver,8,AMERICAN,186.0,97.0,1996-07-14,,"6'1""",214
+3d66e9b0-1f30-11ee-975a-f7544bbf3241,1583591.0,Maciej,Jabłoński,Maciej Jabłoński,wpa,Cornerback,28,Polish,179.0,80.0,1998-02-22,Ostrowiec Świętokrzyski,"5'10""",176
+aa46ec10-1f30-11ee-9411-e54c273304d3,,Marcin,Pryjma,Marcin Pryjma,wpa,Defensive Tackle,92,Polish,187.0,115.0,1988-11-11,"Wrocław, Poland","6'1""",254
+007ddc40-1fc9-11ee-ad37-7b514c5fbaf0,1583369.0,Tim,Sauerland,Tim Sauerland,rhf,Tight End,85,German,190.0,102.0,2002-08-21,"Münster, Germany","6'2""",225
+3cc269d0-2084-11ee-af71-dff6ad7a4a11,1595547.0,Bruno,Ribeiro,Bruno Ribeiro,par,,,FRENCH,,,1993-10-07,,,
+f2389280-24ad-11ee-985a-e3485507dbe1,,Christopher,Mielke,Christopher Mielke,rhf,Tight End,83,German,195.0,120.0,2002-08-30,"Essen, Germany","6'4""",265
+b29c50e0-2d26-11ee-8706-e741b00d098c,1583746.0,Noel,Swancar,Noel Swancar,vik,Linebacker,0,AUSTRIAN,182.0,93.0,2004-03-08,,"5'11""",205
+706d35d0-2d90-11ee-8706-e741b00d098c,1583810.0,Linus,Gantar,Linus Gantar,vik,Free Safety,25,AUSTRIAN,176.0,90.0,1999-07-29,,"5'9""",198
+0bf16560-c5eb-11ee-886b-e7cbb787e39c,,Nikolaus,Terlitza,Nikolaus Terlitza,vik,Linebacker,45,AUSTRIAN,183.0,97.0,2001-09-05,,"6'0""",214
+76581870-c5ed-11ee-8c2f-fbdef772c2bf,1132415.0,Ben,Holmes,Ben Holmes,vik,Quarterback,3,AMERICAN,183.0,95.0,1994-10-15,,"6'0""",209
+cb48be10-c666-11ee-bd0a-fd1a4cd5307a,1583803.0,Noah,Touré,Noah Touré,vik,Wide Receiver,18,AUSTRIAN,187.0,86.0,2002-01-05,,"6'1""",190
+d38e0a80-d552-11ee-a3d5-0f955742d46a,1583633.0,Ksawery,Tracz,Ksawery Tracz,wpa,Defensive End,90,Polish,183.0,108.0,2003-11-23,"Bydgoszcz, Poland","6'0""",238
+773b3e80-def1-11ee-a8fd-03adaa90c5cb,,Maximilian,Zimmermann,Maximilian Zimmermann,bth,Offensive Guard,67,German,,,2001-11-10,Nurenberg,,
+fa73d990-e5e2-11ee-be59-813d4451c70b,1187831.0,Jon,Cole,Jon Cole,bth,Wide Receiver,0,American,,,1996-11-09,Los Angeles,,
+6b085bb0-e794-11ee-ac66-3dc03ac31f1e,1584934.0,Pablo,de Diego Maffrand,Pablo de,bth,Free Safety,22,Spanish,184.0,85.0,1998-09-22,,"6'0""",187
+ba34f340-e7a0-11ee-a37e-e31ca7533842,1584982.0,Ignacio,Diz Bravo,Ignacio Diz,fir,Linebacker,,Spanish,185.0,97.0,2004-05-20,,"6'0""",214
+030e7cd0-ec1a-11ee-b548-ab68632a850a,1583795.0,Lukas,Kalkhofer,Lukas Kalkhofer,vik,Cornerback,16,AUSTRIAN,183.0,80.0,2002-10-13,,"6'0""",176
+cbd6e3e0-ec2f-11ee-9fd0-03183dc08200,1583876.0,Niclas,Kranz,Niclas Kranz,bth,Tight End,81,German,202.0,115.0,1997-10-09,Berlin,"6'7""",254
+ee79dc60-ed59-11ee-a056-a1911c1a448f,,Aaron,David Pérez,Aaron David,fir,Wide Receiver,,Spanish,188.0,90.0,2002-07-20,,"6'2""",198
+5c46d6c0-f7e2-11ee-9509-f58d5d722fd0,1583831.0,Peter,Daigeler,Peter Daigeler,bth,Free Safety,14,German,,83.0,2004-06-05,"Merzig, Germany",,183
+69986b80-fcde-11ee-841f-bff23366aefa,1583350.0,Bryan,Winter,Bryan Winter,rhf,Wide Receiver,19,German,182.0,85.0,2005-04-17,Köln,"5'11""",187
+adeb7510-00b3-11ef-a95b-21076f0b43f8,1583627.0,Hubert,Frej,Hubert Frej,wpa,Tight End,80,Polish,189.0,99.0,2004-04-30,"Rypin, Poland","6'2""",218
+5a37cef0-033d-11ef-a224-4554a3c91152,,Peter,Lundström,Peter Lundström,par,Free Safety,24,Finnish,184.0,87.0,2001-05-12,Finland,"6'0""",192
+a499df30-0a25-11ef-920b-2105a03c1fd2,1583498.0,Oliver Noah,Obolela Vargas,Oliver Obolela,alp,,,SPANISH,189.0,94.0,2001-08-21,,"6'2""",207
+421ffe50-0a27-11ef-a033-e5eef7c089da,1583556.0,Oliver,Ďurč,Oliver Ďurč,vik,Offensive Tackle,65,SLOVAK,185.0,143.0,1995-05-25,,"6'0""",315
+59c277a0-0b2f-11ef-b6db-41b46cfb09dd,1248038.0,Marko,Vidačković,Marko Vidačković,wpa,Free Safety,7,Polish,186.0,89.0,2002-04-20,"Waiblingen, Germany","6'1""",196
+516aaf60-0bbf-11ef-91a5-6b90b90bf7cd,1583597.0,Patryk,Guk,Patryk Guk,wpa,Linebacker,34,Polish,182.0,107.0,1997-01-14,"Dzierżoniów, Poland","5'11""",236
+0495ef80-0ded-11ef-bff0-2b36507480ac,1584101.0,Nazir,Streater,Nazir Streater,rhf,Strong Safety,5,American,178.0,91.0,1999-02-25,"Burlington, United States","5'10""",201
+3b3c3dc0-0dff-11ef-9c7a-5f5c661e7045,1584975.0,Jorge,Hernandez Jimenez,Jorge Hernandez,wpa,Linebacker,45,Spanish,186.0,100.0,1995-09-09,"Tenerife, Spain","6'1""",220
+a61d7f10-11d2-11ef-ba14-5bbec3717f1d,,Mahsum,Kedik,Mahsum Kedik,rhf,Fullback,41,German,180.0,123.0,1995-11-09,Siegburg,"5'10""",271
+cbb6ce80-11db-11ef-a715-7fff4eb2b83b,1460776.0,Lukas,Majer,Lukas Majer,wpa,Offensive Tackle,65,German,193.0,126.0,2003-10-17,"Cologne, Germany","6'3""",278
+081e56f0-12a3-11ef-91d8-71c5a27ea34f,1586679.0,Pierre-Yves,Majo,Pierre-Yves Majo,vik,Defensive Tackle,97,SWISS,195.0,108.0,2001-02-05,,"6'4""",238
+de93cdd0-1412-11ef-bb62-d355db2c6c47,1305034.0,Kevin,Kaya,Kevin Kaya,alp,Wide Receiver,,FRENCH,191.0,85.0,1995-01-14,,"6'3""",187
+3b3a79d0-27fa-11ef-880b-49b76020997f,,Ezra Francis,Forbes Trudo ,Ezra Forbes,fir,,,PANAMAIAN,,,2000-08-31,,,
+d55378b0-2d6c-11ef-bea7-2d37bc61ef4b,1583351.0,Paul,Breuer,Paul Breuer,rhf,Running Back,20,German,177.0,92.0,2005-02-08,"Köln, Germany","5'9""",203
+847f0200-3a9c-11ef-b15a-e107de4f9867,1471576.0,Sarrow,Drammeh,Sarrow Drammeh,alp,,,GERMAN,185.0,88.0,2003-07-19,,"6'0""",194
+234ddc80-3d09-11ef-b038-5b51e4672962,1583825.0,Simon,Hakes,Simon Hakes,bth,Defensive End,9,German,191.0,116.0,1997-06-17,,"6'3""",256
+59e595e0-3d49-11ef-ab22-d97099723935,1584301.0,Steven,Hintermann,Steven Hintermann,alp,,,SWISS,198.0,159.0,1998-12-22,,"6'5""",351
+5d0493b0-3d4a-11ef-a65f-bf9801680b06,976929.0,Matthew,McKay,Matthew McKay,fir,,,AMERICAN,193.0,98.0,1999-10-21,,"6'3""",216
+a07b9da0-3f89-11ef-b0d8-b32108ec1f3a,1584063.0,Jan,Wiesauer,Jan Wiesauer,vik,Running Back,20,AUSTRIAN,176.0,83.0,1999-09-25,,"5'9""",183
+f74a5c00-42c9-11ef-8109-379aeb9821de,1590952.0,Wojciech,Simka,Wojciech Simka,wpa,Cornerback,9,Polish,187.0,83.0,2002-08-04,"Tychy, Poland","6'1""",183
+b8d081f0-434d-11ef-a9dc-4f7842be3ccc,,Diego,Lliteras Ferraz,Diego Lliteras,wpa,Quarterback,13,Spanish,192.0,85.0,2002-02-13,"Palma de Mallorca, Spain","6'3""",187
+ca298870-4357-11ef-9f05-bf023cc16087,,Liam,Ward,Liam Ward,alp,,,FRENCH,,,1996-07-06,,,
+c902cfd0-4364-11ef-b093-9be881165811,1584060.0,Paul,Kriener,Paul Kriener,vik,Outside Linebacker,29,AUSTRIAN,184.0,92.0,2003-01-06,,"6'0""",203
+98cc54a0-48d0-11ef-9674-53da1f77b731,1583851.0,Fabian,Schmid,Fabian Schmid,vik,Defensive End,92,AUSTRIAN,189.0,100.0,2002-12-09,,"6'2""",220
+eb9bf770-dfd5-11ef-be29-a56f8a901fe3,1583626.0,Jakub,Rybicki,Jakub Rybicki,wpa,Offensive Guard,74,Polish,197.0,145.0,2004-08-10,Szczecin,"6'5""",320
+7ad5b8a0-f088-11ef-ab85-658e1f1e2fb0,1504824.0,Amani,Dennis,Amani Dennis,vik,Cornerback,9,AMERICAN,180.0,80.0,1997-05-09,,"5'10""",176
+d3af8a50-f088-11ef-b24d-0158f47d6d04,1583772.0,Nico,Hrouda,Nico Hrouda,vik,Quarterback,12,AUSTRIAN,178.0,84.0,2002-10-24,,"5'10""",185
+12c024b0-f08a-11ef-b94a-a3eb49c4a869,1583852.0,Max,Grünsteidl,Max Grünsteidl,vik,Defensive End,93,AUSTRIAN,186.0,94.0,2004-04-23,,"6'1""",207
+0b4fe340-f08b-11ef-bb13-f95a8836ac77,1583819.0,Elias,Allmer,Elias Allmer,vik,Cornerback,35,AUSTRIAN,178.0,80.0,2004-07-22,,"5'10""",176
+ed584480-f08b-11ef-94fc-45d5463ad405,1585082.0,Manuel,Radfux,Manuel Radfux,vik,Defensive Tackle,90,AUSTRIAN,183.0,110.0,1991-08-26,,"6'0""",243
+77002d50-f08d-11ef-8c76-d1bfd0f9cabb,1583771.0,Nils,Keimel,Nils Keimel,vik,Wide Receiver,10,AUSTRIAN,188.0,95.0,2005-05-12,,"6'2""",209
+d422d8a0-f2c4-11ef-a181-6f4d6f639084,1518357.0,Jamie,Riedel,Jamie Riedel,wpa,Defensive Tackle,99,German,188.0,135.0,2005-05-14,"Hamburg, Germany","6'2""",298
+fe83cda0-f50f-11ef-ac71-e14f27ec54d2,1463733.0,Ott Eric,Ottender,Ott Ottender,wpa,Wide Receiver,11,Estonian,180.0,85.0,2001-04-23,"Tartu, Estonia","5'10""",187
+f4bfff40-f510-11ef-93ec-01b1a9c739d5,1584296.0,Fabio,Häfliger,Fabio Häfliger,alp,,,SWISS,185.0,100.0,2000-04-16,,"6'0""",220
+66d8fb40-f511-11ef-ace0-6303eab25cb0,,Otávio,Amorim,Otávio Amorim,alp,,,BRAZILIAN,194.0,160.0,1996-10-10,,"6'4""",353
+762624c0-f5e2-11ef-9940-83e826ba834c,1584279.0,Alan,Orsetti,Alan Orsetti,alp,,,ITALIAN,175.0,77.0,1999-02-10,,"5'8""",170
+0f0f7fb0-f5e3-11ef-b60f-59dac477ebda,1584284.0,DeMarco,Artis,DeMarco Artis,alp,Defensive Line,33,AMERICAN,190.5,109.0,1999-02-24,USA,"6'3""",240
+a02f9930-f5e3-11ef-b013-3326765f60d8,1584275.0,Adrian,Saliu,Adrian Saliu,alp,,,SWISS,180.0,108.0,2004-10-23,,"5'10""",238
+4482a080-fb58-11ef-a7ca-6118df0f365d,1584959.0,Brendan,Oswin,Brendan Oswin,vik,Offensive Tackle,75,AUSTRALIAN,190.0,125.0,1998-04-02,,"6'2""",276
+ac3e1e70-fff4-11ef-a4b6-1b0c0a65d7c9,1584292.0,Sampo,Leppänen,Sampo Leppänen,alp,,,FINNISH,188.0,145.0,2004-08-24,,"6'2""",320
+c621ba80-0333-11f0-a9a3-97feec647502,1583815.0,Pietro,Migliori,Pietro Migliori,fir,,,ITALIAN,181.0,87.0,2001-08-20,,"5'11""",192
+09c65160-0334-11f0-b590-d35a215507b9,1583846.0,Shadrach,Arthur,Shadrach Arthur,bth,Offensive Guard,74,Italian,194.0,137.0,2000-12-05,"Udine, Italy","6'4""",302
+cb3ba8d0-0e07-11f0-94be-cdcecf3a5529,1584736.0,Adeyinka Amos,Laoye,Adeyinka Laoye,wpa,Offensive Guard,67,Belgian,195.0,154.0,1996-10-09,"Ota, Nigeria","6'4""",340
+654758d0-144c-11f0-a09b-01dbddbc3a9c,1229069.0,Tobias,Braun,Tobias Braun,rhf,Offensive Tackle,72,German,203.0,140.0,2000-03-03,"Freiburg im Breisgau, Germany","6'7""",309
+3ffc18e0-1631-11f0-af66-7df36aec843e,1585869.0,Benedikt Alpha,Ehren,Benedikt Ehren,bth,Wide Receiver,10,German,187.0,80.0,2003-01-24,Ledig,"6'1""",176
+0f17a8b0-1632-11f0-84cf-998242c4b72e,1585881.0,Bastian,Gersöne,Bastian Gersöne,bth,Linebacker,42,German,180.0,85.0,1994-12-02,Berlin,"5'10""",187
+0b470b60-1a95-11f0-98c2-0f7564e50896,1586184.0,Miche,Vandekerkhof,Miche Vandekerkhof,rhf,Defensive Tackle,91,Belgian,194.0,122.0,1999-05-20,"Brussels, Belgium","6'4""",269
+86ebc040-1b0c-11f0-b38c-b531c5ae0a0c,1585993.0,Tom,Wolf,Tom Wolf,rhf,Quarterback,12,German,180.0,99.0,2003-09-11,"Dieburg, Germany","5'10""",218
+4ebf73a0-1b0d-11f0-b955-d17c4beb9258,1585992.0,Elias,Jassey,Elias Jassey,rhf,Cornerback,21,German,189.0,84.0,2003-03-07,Duesseldorf,"6'2""",185
+5bd58f60-1b0e-11f0-872f-1385460e6bc0,1585990.0,Dereck,Onyia,Dereck Onyia,rhf,Cornerback,24,German,188.0,86.0,2003-12-17,"Düsseldorf, Germany","6'2""",190
+cc2256e0-1b0e-11f0-ad7a-b73d1a960a5c,1585989.0,Marius,Rieks,Marius Rieks,rhf,Cornerback,25,German,188.0,95.0,1999-07-09,"Düsseldorf, Germany","6'2""",209
+05753740-1b10-11f0-8bc7-73d19da86c9b,1585985.0,Bennet,Dümmer,Bennet Dümmer,rhf,Outside Linebacker,45,German,190.0,110.0,2004-07-15,Gronau,"6'2""",243
+c444c2c0-1b11-11f0-9f63-edf327c8ffdf,1585980.0,Lukas,Jakobi,Lukas Jakobi,rhf,Center,76,German,190.0,140.0,2004-05-11,Duisburg,"6'2""",309
+d584e3b0-1b13-11f0-896b-832608d1f7ba,1585975.0,Moritz Till,Gotzmann,Moritz Gotzmann,rhf,Tight End,86,German,191.0,109.0,1998-04-06,"Bielefeld, Germany","6'3""",240
+e4e097c0-1b16-11f0-8233-ebcafdd44f88,1585968.0,Fry Stewar,Mosquera Sinisterra,Fry Mosquera,rhf,Outside Linebacker,92,Colombian,194.0,111.0,1998-03-19,"Buenaventura, Colombia","6'4""",245
+51f9dc00-266f-11f0-b6b7-c781b2e37b01,1585941.0,Philipp,Klar,Philipp Klar,vik,Kicker,37,AUSTRIAN,182.0,82.0,1992-04-15,,"5'11""",181
+367897c0-275d-11f0-80e4-050de34b547a,1585995.0,Jonathan,Scott,Jonathan Scott,rhf,Halfback,11,Panamanian,181.0,97.0,1997-07-30,"Panamá, Panama","5'11""",214
+4d2b7080-2c00-11f0-a78b-4fc4bc38347f,1585247.0,Toni Marius,Hild,Toni Hild,rhf,Wide Receiver,82,German,184.0,77.0,1999-06-13,"Gelsenkirchen, Germany","6'0""",170
+fbddd310-2c06-11f0-a403-5bfd550e0da0,1586695.0,Marcel,Łach,Marcel Łach,wpa,Strong Safety,24,POLISH,186.0,84.0,2004-03-16,,"6'1""",185
+bc315780-2f1e-11f0-b987-e5ba604cdb0a,1400679.0,Thomas,Le Boucher,Thomas Le Boucher,alp,,,FRENCH,195.0,142.0,2001-02-19,,"6'4""",313
+9a20e1e0-3b64-11f0-b6dd-f5286535461e,1588254.0,Michael,Harley Jr,Michael Harley Jr,wpa,Wide Receiver,5,American,178.0,82.0,1997-12-13,"Fort Lauderdale, USA","5'10""",181
+5bc6ff00-4aa6-11f0-a57f-ed52fc38048b,1590798.0,Tymur,Lytvynov,Tymur Lytvynov,wpa,Defensive Tackle,98,UKRAINIAN,198.0,140.0,1996-01-22,,"6'5""",309
+83a37c10-505f-11f0-ab93-0f7361f8237a,1591456.0,Haytham,Abdelli,Haytham Abdelli,alp,,,SWISS,,,2003-07-12,,,
+13272ca0-526e-11f0-8506-6fd70bb9b75e,1593027.0,Ahmed,Charfi,Ahmed Charfi,alp,,,SWISS,,,2003-12-20,,,
+2b63cc40-55a9-11f0-9506-b723ea2c2c5a,1593075.0,Jan,Wolski,Jan Wolski,wpa,Offensive Guard,75,Polish,185.0,135.0,2005-04-10,"Szubin, Poland","6'0""",298
+8f078ce0-5604-11f0-bc55-7b51e0729b60,1593074.0,Lukas,Wiesbrock,Lukas Wiesbrock,rhf,Inside Linebacker,32,German,187.0,106.0,1999-01-18,Paderborn,"6'1""",234
+6efad350-5af3-11f0-ae86-af53f6421ab1,1593949.0,Armand,Soulerot,Armand Soulerot,par,Running Back,8,French,184.0,98.0,2003-04-25,Versailles,"6'0""",216
+07afa8c0-5b4c-11f0-9e29-4f9c2ac17910,1593889.0,Niklas,Adio,Niklas Adio,bth,Defensive Tackle,91,German,183.0,110.0,1999-05-09,"Essen, DE","6'0""",243
+0cce7290-5b6b-11f0-9b93-9b481910274c,1319524.0,Jameson,Wang,Jameson Wang,wpa,Quarterback,8,American,185.0,93.0,2001-07-30,"California, USA","6'0""",205
+67868640-5bd0-11f0-821f-cba966be7a02,1593897.0,Kerem,Dönmez,Kerem Dönmez,wpa,Offensive Tackle,66,Turkish,195.0,130.0,2003-05-20,"Istanbul, Turkey","6'4""",287
+5c059730-5bd4-11f0-912f-ed087b43e52c,1593954.0,Bartosz,Woch,Bartosz Woch,wpa,Running Back,21,Polish,184.0,102.0,1995-09-21,"Wolsztyn, Poland","6'0""",225
+d61d51a0-5bd6-11f0-91a2-715e92a0c68d,1593893.0,Igor,Beker,Igor Beker,wpa,Offensive Tackle,57,Polish,200.0,124.0,2001-07-05,"Świdnica, Poland","6'6""",273
+88730bf0-5bd8-11f0-a6bb-f9841652d501,1593911.0,Alex,Okrasa,Alex Okrasa,wpa,Defensive End,41,POLISH,185.0,95.0,2006-11-08,,"6'0""",209
+366150a0-5bde-11f0-a1bb-53f7b5a23669,1593951.0,Filip,Suwada,Filip Suwada,wpa,Cornerback,23,Polish,180.0,87.0,2003-03-04,"Kraków, Poland","5'10""",192
+5411b290-5bf0-11f0-ae17-b301feb51d20,1593917.0,Mikołaj,Pastucha,Mikołaj Pastucha,wpa,Defensive Tackle,39,POLISH,187.0,111.0,2001-08-15,,"6'1""",245
+437774d0-3fd9-11ef-a92c-e5032ec21251,1585883.0,Thomas,Bertrand,Thomas Bertrand,par,Offensive Tackle,55,FRENCH,196.0,110.0,2000-11-24,,"6'5""",243
+3e498e60-5de4-11f0-93fe-cf15f083a4f0,1458601.0,Tidiane,Jalloh,Tidiane Jalloh,par,Outside Linebacker,10,FRENCH,,,2002-05-04,France,,
+2db9dd90-6157-11f0-bdbf-91f0f18cd723,1595495.0,Eliott,Bahamonde,Eliott Bahamonde,alp,,,SWISS,,,2004-04-06,,,
+32c8d040-6173-11f0-8b20-f38f8bb7bb07,1595505.0,Tyrone,Brown,Tyrone Brown,bth,Center,55,Dutch,,,2000-10-18,Pemerend Netherlands,,
+f0b36a70-7a14-11f0-8d13-1d01d0a9e0b7,,Eduard,Mattheiss,Eduard Mattheiss,alp,,,SWISS,,,0200-05-24,,,
+8fa3b5f3-b84c-43bf-89fc-2bd1de89e98e,,Bernhard,Seikovits,Bernhard Seikovits,vik,Tight End,7,Austrian,196.0,119.0,1997-07-24,Wien,"6'5""",262
+68bd370a-42fb-47f2-a894-6c826c5b4e46,,Moritz,Jadin,Moritz Jadin,vik,Running Back,28,Austria,,,,,,
+a7d2d8dd-bc2c-4b45-9e37-a63983079178,,Lars,Leutgeweger,Lars Leutgeweger,vik,Offensive Guard,66,,,,,,,
+4a05a47c-f102-4c74-afeb-08adc8b2d0ba,,Nick,Holub,Nick Holub,vik,Offensive Guard,79,,,,,,,
+539890b5-0f66-4630-9aa7-d7f4c8f96cf8,,Fabian,Eder,Fabian Eder,vik,Wide Receiver,11,,,,,,,
+6114ea12-7ada-4381-9d23-756585c74ace,,Kenzo,Mandl,Kenzo Mandl,vik,Wide Receiver,81,,,,,,,
+3f064231-b456-4ac8-9bcb-9493e9408288,,Sean Rae,Trotter,Sean Rae Trotter,vik,Defensive Line,17,,,,,,,
+5ac7ded2-9b24-4d92-b225-36a87d4d9b86,,Malek,Jaradat,Malek Jaradat,vik,Defensive Line,99,,,,,,,
+436940df-765c-4714-9ac2-76c1def5f2fb,,Dominik,Jost,Dominik Jost,vik,Linebacker,30,,,,,,,
+1dc525e9-dd6c-49bc-8cfd-01172e5f12c3,,Raffael,Weninger,Raffael Weninger,vik,Safety,32,,,,,,,
+beb617b8-2772-4bb1-a3cf-149ad164ba68,,Sanka Jean Charles Moukouri,Moukouri,Sanka Jean Charles Moukouri Moukouri,par,Running Back,21,French,,208.0,1994-06-15,Douala,,459
+3e6af56a-cc50-4bff-a95a-c80093d7bf82,,Evan,Hillock,Evan Hillock,par,Quarterback,4,Canadian,191.0,96.0,2001-01-29,Canada,"6'3""",212
+e856f7ab-27ec-4081-bbd9-1c24c89d7dee,,Tristen,Wallace,Tristen Wallace,par,Wide Receiver,1,United States,191.0,104.0,1998-12-04,Texas,"6'3""",229
+894df30b-c5c3-407f-a0f9-cade83980142,,James “JJ” Joseph Bailey,Hopp,JJ Hopp,par,Wide Receiver,#0,United States,183.0,93.0,1996-05-29,New Jersey USA,"6'0""",205
+3fcd13cd-2ae0-47b8-a39b-dad163db244c,,Hugo,De La Cruz,Hugo De La Cruz,par,Defensive End,54,France,190.0,,2003-03-03,Madrid,"6'2""",
+04cedd3b-b64f-461a-87d2-cff205849c2d,,Deshon,Hall Junior,Deshon Hall Junior,wpa,Defensive End,93,American,188.0,115.0,1993-11-13,"Louisiana, USA","6'2""",254
+93f8fd87-1806-4f34-9462-4ed99d1e5b55,,Torey,Richardson,Torey Richardson,wpa,Cornerback,14,American,185.0,84.0,2000-01-02,"Houston, USA","6'0""",185
+011bd70e-63fb-4423-a669-6866cf996542,,Dylan,St. Pierre,Dylan St. Pierre,wpa,Tight End,88,Canada,191.0,107.0,1998-05-07,"Ottawa, Canada","6'3""",236
+77e5aea0-15f1-439c-9969-6e6eaa2b3fe6,,Laurits,Vinther,Laurits Vinther,wpa,Offensive Guard,52,Danish,188.0,137.0,2003-05-05,"Hillerød, Denmark","6'2""",302
+98dcde86-0fd6-481a-a0d7-1ffa086696cb,,Hugo,Schwartz,Hugo Schwartz,par,Wide Receiver,13,France,178.0,,2001-05-31,France,"5'10""",
+dd0c3227-45ac-48a3-875f-f5eae297ea2a,,LARS LENNARD,BARDENHAGEN,LARS LENNARD BARDENHAGEN,par,Linebacker,49,,186.0,100.0,1999-11-18,,"6'1""",220
+d507e4df-f772-4a28-8064-1ea76c66437d,,Enzo Joshua,Plumain,Enzo Joshua Plumain,par,Wide Receiver,12,French,177.0,76.0,2000-12-20,Paris,"5'9""",168
+a447b38b-5c0d-424f-a365-789c276daf43,,Simon Eyimofe Toluwalase,Olaifa,Simon Eyimofe Toluwalase Olaifa,fir,Running Back,,England,,,2006-12-20,Portsmouth,,
+4db7c3d6-98f5-4f66-8803-bd7d4c16f9f9,,Jakeen Eugene,Harris,Jakeen Eugene Harris,fir,Strong Safety,,United States,,,2000-10-02,Georgia U.S.A.,,
+13c6f232-f2a4-4813-9ee3-ec113a85d281,,Trajon Michael Anthony,Cotton,Trajon Michael Anthony Cotton,fir,Cornerback,,United States,,,1999-05-11,California U.S.A.,,
+32b7a8f1-c68f-4928-9c4d-1ff5008e1391,,Abraham,Chacon Orta,Abraham Chacon Orta,fir,Offensive Tackle,,Mexican,,,1999-06-01,"Azcapotzalco, Distrito Federal",,
+b2466f4e-510f-4bf9-b509-42372321694b,,Claudio Simone,Caruso,Claudio Simone Caruso,fir,Wide Receiver,,Italy,,,1991-08-15,Catania,,
+b7a05b7a-39c9-417d-896b-11eec30676b4,,Devin Leandre,Carter,Devin Leandre Carter,fir,Wide Receiver,,United States,,,2000-04-10,"Virginia, U.S.A.",,
+abd8090a-a84d-4063-b186-992c7baec836,,Jordi Térence,Kabedi Fulu,Jordi Térence Kabedi Fulu,fir,Offensive Guard,,France,184.0,,1995-02-17,Paris,"6'0""",
+6dd88195-d446-41f1-813f-6ec5f3e06c70,,Lambert Jaden,Ondua,Lambert Jaden Ondua,fir,Defensive Tackle,,England,,,2004-11-03,Goodmayes,,
+4d0cc352-0be3-4cba-abd0-d30987b12738,,Peter Graham,Hart,Peter Graham Hart,fir,Offensive Guard,,,,,1998-10-17,Leytonstone,,
+8dc4e271-2ada-4de4-be7b-be4a057f660e,,Samuel Aleksi,Leppànen,Samuel Aleksi Leppànen,fir,Defensive End,,Finland,,,2002-06-20,Helsinki,,
+937278a9-379e-4016-86d8-d51822ab8494,,Gregorio Roberto,Giorgi,Gregorio Roberto Giorgi,fir,Wide Receiver,,Italy,,,2006-10-07,Poggibonsi (SI),,
+cdf4e922-441d-484e-bd0a-84c6aee8fd00,,Yassine,Sifeddine,Yassine Sifeddine,par,Tight End,3,French,,,2002-03-12,"Le Blanc Mesnil, France",,
+5b1e1301-91af-4866-93b0-185982568bb4,,Amin,Ibrahim,Amin Ibrahim,par,Wide Receiver,84,France,183.0,95.0,1997-04-26,Paris France,"6'0""",209
+c2a66676-7566-4b0d-aac9-c56934c9c3f1,,David,Oliveira De Sousa,David Oliveira De Sousa,par,Linebacker,36,France,,,1990-03-17,"Paris, France",,
+8a5a348b-3d0b-4ec9-8ac9-e8bdfdbf9ee5,,Lowry Jean De Joël,FELIX,"Lowry,Jean De Joël FELIX",par,Running Back,23,French,,,1997-07-29,"Carrefour, Haiti",,
+68536174-9403-4540-8dab-053721539dc8,,Mahmoud,Gharsallah,Mahmoud Gharsallah,par,Wide Receiver,15,French,186.0,80.0,2003-09-24,Clichy France,"6'1""",176
+16fc2fd9-59a4-4e0d-9949-c4af41d82cf0,,Jean-marc,Jeanty,Jean-marc Jeanty,par,Linebacker,56,French,175.0,90.0,1996-06-02,Montreuil France,"5'8""",198
+a90a4b5e-d1c0-4787-8465-27998a98d269,,Marque,Collins,Marque Collins,par,Cornerback,2,American,,84.0,2000-12-09,"California, USA",,185
+caaa872b-461d-4c96-875b-7e2c9c798892,,Cyr-Ivan,KOUANGHA Jr.,Cyr-Ivan KOUANGHA Jr.,par,,25,,,89.0,2006-10-12,Lagny Sur Marne,,196
+4d3c6c14-e176-43cb-9ccc-ea25a8a6b0a2,,Warren,Mudingayi,Warren Mudingayi,par,Running Back,20,French,,89.0,2004-11-03,Nimes,,196
+05d4cc2a-37f1-4827-8f50-0340f3b03bcb,,Théo,Boulesteix,Théo Boulesteix,par,Offensive Guard,63,France,,,2002-02-08,France,,
+4b9b61d7-6941-4c0e-8f70-a748357bfc79,,Melvine,Pelage,Melvine Pelage,par,Wide Receiver,27,French,172.0,85.0,1998-07-30,France,"5'7""",187
+73e905d8-bfac-413b-b0d3-e1f2b025f7ba,,Timon,Fellmann,Timon Fellmann,alp,Quarterback,15,Switzerland,,,2000-03-06,Switzerland,,
+0690b9f7-6576-4894-9845-04dae9a5bfd7,,Joel,Kuta Diangombo,Joel Kuta Diangombo,alp,Running Back,21,Switzerland,185.0,85.0,2002-09-02,Switzerland,"6'0""",187
+6fcb0328-55d1-43b5-8057-a55bd1357afe,,Jeremy,Lawson,Jeremy Lawson,alp,,,,180.0,95.0,2005-12-12,Switzerland,"5'10""",209
+d4f199be-4dff-47c5-9251-e1bdbcfc67d0,,Alexander,Sardelic,Alexander Sardelic,alp,Cornerback,27,Austria,183.0,77.0,2007-09-06,Switzerland,"6'0""",170
+68ee97e4-228f-443c-b3ad-531c45f0fd57,,Colin,Stadelmann,Colin Stadelmann,alp,Defensive End,52,Switzerland,187.0,100.0,2004-07-03,Switzerland,"6'1""",220
+9f18e5b3-1ffd-45ab-97f4-39543e8b42fd,,MAROUANE,DARDOUR,MAROUANE DARDOUR,par,Quarterback,19,France,175.0,,2021-06-05,Nevers,"5'8""",
+57ce79ab-780d-44e9-8344-5990dc960768,,Timothe,Labarriere,Timothe Labarriere,par,,,,,,,,,
+6535510d-91fa-47f5-975e-54c0fce9d0f5,,Kenji,Bahar,Kenji Bahar,rhf,Quarterback,1,American,192.0,93.0,1997-09-21,"Baltimore, Maryland","6'3""",205
+0468c5ec-d2a5-473e-8d92-0a58f9ac4d55,,Joshua Immanuel,Scott Restrepo,Joshua Scott,rhf,Wide Receiver,2,,,,2003-05-05,"Colombia, Panama",,
+9e736b55-b97a-4b0c-a64d-71d28f358373,,Mailo Sean,Schätzler,Mailo Sean Schätzler,rhf,Wide Receiver,9,Germany,185.0,85.0,2002-10-23,"Düsseldorf, Germany","6'0""",187
+17f682bd-6afe-4de1-8205-06ef5a18fe66,,Jannik,Lörcks,Jannik Lörcks,rhf,Wide Receiver,13,German,184.0,84.0,2000-12-13,"Aachen, Germany","6'0""",185
+11b29d51-495b-4c70-81a6-3c04362602da,,Tristan,Dominiak,Tristan Dominiak,rhf,Quarterback,17,German,190.0,96.0,2002-07-31,"Dorsten, Germany","6'2""",212
+820494f7-4ddf-4b66-a6fd-6115c8718045,,Leon,Friebel,Leon Friebel,rhf,Wide Receiver,18,German,189.0,89.0,2001-01-24,"Aalen, Germany","6'2""",196
+449f396e-245e-48d5-ac77-7702ca0f1ca9,,Marvellous,Imade,Marvellous Imade,rhf,Running Back,22,Nigerian,175.0,87.0,2004-03-06,Cesena,"5'8""",192
+c048b4e0-e332-4209-8f06-c9c176a2562c,,Kaylon,Geiger,Kaylon Geiger,rhf,Wide Receiver,6,American,175.0,82.0,1997-11-01,"Fort Worth, United States","5'8""",181
+e7b0b44e-ef2a-47fb-a744-07d3f02a01e9,,Justin,Howell,Justin Howell,rhf,Cornerback,27,Canadian,182.0,90.0,1993-12-04,"Toronto, Canada","5'11""",198
+a47b1f6a-4119-4e25-9dd0-bd3241bf135d,,Christian,Matthew,Christian Matthew,rhf,Cornerback,0,American,,,1996-10-26,"Miami, United States",,
+d992288e-0ac5-4eb7-86a4-4f54104c40cd,,Eugene,Asiedu,Eugene Asiedu,rhf,Offensive Guard,71,German,194.0,135.0,1999-03-07,"Castrop-Rauxel, Germany","6'4""",298
+f770b1a5-23b0-49bd-a80a-947717413fcc,,Samuel,Owusu,Samuel Owusu,rhf,Offensive Guard,75,German,194.0,131.0,2002-02-01,"Grimma, Germany","6'4""",289
+b341afbb-3b58-4f63-8eb8-7e1e35671d73,,Oscar,Balzer,Oscar Balzer,rhf,Tight End,84,German,192.0,105.0,2006-08-04,"Düsseldorf , Germany","6'3""",231
+813b28fc-cb8a-45eb-b62c-6e322e90ec53,,Luca Lorenzo,Hinsch,Luca Lorenzo Hinsch,rhf,Wide Receiver,87,Germany,183.0,83.0,2005-02-23,"Hamburg, Germany","6'0""",183
+44e768b4-ce21-4146-8612-5593b43ea4d0,,Keesawn,Abraham,Keesawn Abraham,bth,Free Safety,5,American,178.0,88.0,2000-08-22,"Brooklyn, NY","5'10""",194
+d36d2dca-257c-49e6-8e95-34cdc88b60b2,,Felix,Bielawny,Felix Bielawny,bth,Wide Receiver,17,German,,,2007-05-02,Geldem,,
+497164d9-d895-4e02-bd1d-ab05d654e578,,Jeremy,Grabert,Jeremy Grabert,bth,Offensive Guard,73,Germany,,,2002-09-10,Potsdam,,
+11431edc-55c8-457a-aad7-dfeffe758d2b,,Lewis,Kirby,Lewis Kirby,bth,Wide Receiver,4,England,,,1999-11-23,"Hounslow, England",,
+f031d7fd-ce46-4493-9786-145c7ea48075,,William,Johnson III,William Johnson III,bth,Strong Safety,1,United States,,,2002-04-16,"Jacksonville, Florida US",,
+3a4c20ac-28f2-49d9-80ff-47a4f7961c74,,Philipe Pascal,Jacob,Philipe Pascal Jacob,bth,Linebacker,23,Germany,,,,,,
+457b6b54-df42-4992-949f-97db75005662,,Jeremias,Krauß,Jeremias Krauß,bth,Linebacker,54,Germany,,,2006-10-08,Naila,,
+b0aa0ad1-041a-4502-904e-b731d7b0bbf0,,Kosi,Onyeka,Kosi Onyeka,bth,Strong Safety,31,Canada,,,1999-10-26,Ontario Canada,,
+b84f8d8f-75ae-4ca0-8d49-6e7b48a0c769,,Bela,Schank,Bela Schank,rhf,Punter,,German,,,2005-01-05,"Bergisch Gladbach, Germany",,
+049c9d6f-1bf0-4f37-8599-2eb292ee03aa,,Leon,Truger,Leon Truger,rhf,Cornerback,,German,185.0,81.0,2003-07-29,"Duisburg, Germany","6'0""",179
+189614e8-9820-4bde-aae7-1c85c8b1019b,,Kevin,Kocks,Kevin Kocks,rhf,,,,,,,,,
+01950435-fbb0-4911-b01e-d585f19c827a,,Boris,Bede,Boris Bede,par,,,,,,1989-11-20,France,,
